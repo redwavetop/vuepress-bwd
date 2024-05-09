@@ -1,6 +1,6 @@
-# bwd-colorSelect
+# 下拉颜色选择器
 
-### 说明：下拉颜色选择器
+### 说明：
 ```javascript
 import {bwdColorSelect} from 'bwd-components';
 

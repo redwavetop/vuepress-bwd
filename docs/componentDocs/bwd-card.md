@@ -1,4 +1,4 @@
-# bwd-card
+# 卡片
 
 ### 说明：
 ```javascript

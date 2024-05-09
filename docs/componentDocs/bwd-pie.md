@@ -1,6 +1,6 @@
-# bwd-pie
+# 饼图系列
 
-### 说明：饼图系列
+### 说明：
 
 ```javascript
 import { bwdPie } from "bwd-components";
@@ -18,6 +18,10 @@ components: {
 ```
 
 ```javascript
+
+    this.$refs.bwdPie.drawEcharts() // 执行绘制
+
+
     data(){
         return {
             pieOption: {
