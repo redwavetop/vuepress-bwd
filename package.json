@@ -1,7 +1,7 @@
 {
   "name": "vuepress-starter",
-  "version": "1.0.0",
-  "description": "保旺达私有组件",
+  "version": "1.0.1",
+  "description": "组件说明文档",
   "main": "index.js",
   "directories": {
     "doc": "docs"
